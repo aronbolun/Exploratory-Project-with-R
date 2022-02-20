@@ -1,5 +1,5 @@
-# Data-Mining----ISIR
 # Exploratory project
+One of projects involve in statistical learning. All models covered would be implemented in Rstudio.
 
 ## Questions to be investigated
 - predict Beijing air quality level of year 2015 based on the model trained on our current 
