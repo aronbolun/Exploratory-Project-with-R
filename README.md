@@ -2,7 +2,7 @@
 One of projects involve in statistical learning. All models covered would be implemented in Rstudio.
 
 ## Questions to be investigated
-- predict Beijing air quality level of year 2015 based on the model trained on our current 
+- Predict Beijing air quality level of year 2015 based on the model trained on our current 
 dataset. 
 
 ## Dataset information
@@ -10,8 +10,8 @@ Description of the data set (source, variables, the number of variables and obse
 - Source: https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data#
 - Number of observations: 43824
 - Number of variables: one predictor and seven variables
-- response: pm2.5: PM2.5 concentration (ug/m^3) 
-- variables: (We choose 2012 and 2013 year data)
+- Response: pm2.5: PM2.5 concentration (ug/m^3) 
+- Variables: (We choose 2012 and 2013 year data)
   - DEWP: Dew Point (â„ƒ)
   - TEMP: Temperature (â„ƒ)
   - PRES: Pressure (hPa)
@@ -21,7 +21,7 @@ Description of the data set (source, variables, the number of variables and obse
   - Ir: Cumulated hours of rain
 
 ## Statistical learning tools to use
-- linear regression
+- Linear Regression
 - LDA/QDA/KNN/Logisti
 - Support Vector Machine/PCR/PLS/Ridge/lasso
 - Selection methods including forward/backward/AIC/BIC
